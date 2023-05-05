@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a98fb626-381a-42ef-8328-80d52a3fdbae" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_failureaccess_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_30_1_1_jre.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_math3_3_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_checkerframework_checker_qual_3_8_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_5_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_params_5_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_commons_1_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_engine_1_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/core.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/core.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/core.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/lib/core.lib.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/InterfacesImpl/DefaultReportTracker.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/InterfacesImpl/DefaultReportTracker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/core/Core.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/core/Core.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/core/InitCore.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/core/InitCore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/core/Listener.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/core/Listener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/core/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/core/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/core/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/core/Observable.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/core/Observable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/core/Observer.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/core/Observer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/core/Report.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/core/Report.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/core/ReportRefresher.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/core/ReportRefresher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/core/ReportResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/core/ReportResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/core/Searcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/core/Searcher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/core/Tracker.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/core/Tracker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/core/TrackerFinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/core/TrackerFinder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/core/LibraryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/core/LibraryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/core/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/TrackerFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/core/TrackerFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/core/LibraryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/core/LibraryTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="diego" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ObgekTFVH3IaaknAhtRKe8JskL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "19",
+    "last_opened_file_path": "/Users/felipecorso/Library/CloudStorage/OneDrive-Personal/Documentos/UNGS/2023-Cuatrimestre 8/Proyecto Profecional 2/Java workspace/core-module/src/test/resources/availableTrackers",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="core" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/availableTrackers" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="availableTrackers" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="US1.CA0" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;core.US1.CA0&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.US1.CA0" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a98fb626-381a-42ef-8328-80d52a3fdbae" name="Changes" comment="" />
+      <created>1681834792976</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681834792976</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
